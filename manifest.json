@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "AdvancedOsintSearch",
+  "version": "1.0",
+  "description": "A Chrome extension for advanced OSINT search!",
+  "permissions": [
+    "tabs"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": ".icon/icon_16.png",
+      "48": ".icon/icon_48.png",
+      "128": ".icon/icon_128.png"
+    }
+  }
+}
